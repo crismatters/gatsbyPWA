@@ -30,14 +30,5 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
      `gatsby-plugin-offline`,
-    //  {
-    //   resolve: 'gatsby-plugin-manifest',
-    //   options: {
-    //     name: 'Gatsby PWA',
-    //     short_name: 'Blog PWA',
-    //     start_url: '/',
-    //     icon: 'src/images/gatsby-icon.png',
-    //   },
-    // },
   ],
 }
